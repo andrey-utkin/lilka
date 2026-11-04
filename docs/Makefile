@@ -13,7 +13,9 @@ translation-setup:
 	sphinx-intl update --pot-dir _build --locale-dir locale --language en
 
 translation-build:
+	sphinx-intl build --locale-dir locale --language en
 	sphinx-build -M $(BUILDER) -D language=en . _build
+	sphinx-build -M html -D language=en --verbose . _html
 
 .PHONY: pdf
 pdf:
