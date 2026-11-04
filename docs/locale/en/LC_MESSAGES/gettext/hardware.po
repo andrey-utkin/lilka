@@ -1,0 +1,196 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Andrew Dunai
+# This file is distributed under the same license as the Лілка package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Лілка \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 19:20+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../hardware/index.rst:4
+msgid "Зміст"
+msgstr ""
+
+#: ../../hardware/index.rst:2
+msgid ":octicon:`cpu` Технічні дані"
+msgstr ""
+
+#: ../../hardware/mcu.rst:4
+msgid "Мікроконтролер"
+msgstr ""
+
+#: ../../hardware/mcu.rst:6
+msgid ""
+"Лілка використовує :term:`мікроконтролер` ``ESP32-S3-WROOM-1-N16R8``. На "
+"відміну від ``ESP32-S3``, \"WROOM\" - це модуль, який містить в собі не "
+"лише сам мікроконтролер ``ESP32-S3``, а й флеш-пам'ять, додаткову "
+"оперативну пам'ять, кристал, антену та інші компоненти, необхідні для "
+"повноцінної роботи мікроконтролера. Це дозволяє значно спростити розробку"
+" плати, оскільки вся \"обв'язка\" мікроконтролера вже виконана на модулі,"
+" а також полегшити збір, оскільки модуль можна встановити на плату за "
+"допомогою простого :term:`SMD`-монтажу звичайним паяльником."
+msgstr ""
+
+#: ../../hardware/mcu.rst:14 ../../hardware/mcu.rst:18
+msgid "ESP32-S3"
+msgstr ""
+
+#: ../../hardware/mcu.rst:16 ../../hardware/mcu.rst:19
+msgid "ESP32-S3-WROOM-1"
+msgstr ""
+
+#: ../../hardware/mcu.rst:21
+msgid "Характеристики ESP32-S3 наступні:"
+msgstr ""
+
+#: ../../hardware/mcu.rst:23
+msgid "**Частота процесора: 240 МГц**"
+msgstr ""
+
+#: ../../hardware/mcu.rst:24
+msgid "**Кількість ядер: 2**"
+msgstr ""
+
+#: ../../hardware/mcu.rst:25
+msgid "**Оперативна пам'ять: 512 КБ**"
+msgstr ""
+
+#: ../../hardware/mcu.rst:26
+msgid "**Вбудований Wi-Fi (802.11 b/g/n)**"
+msgstr ""
+
+#: ../../hardware/mcu.rst:27
+msgid "**Вбудований Bluetooth (BLE)**"
+msgstr ""
+
+#: ../../hardware/mcu.rst:28
+msgid "**45 пінів** :term:`GPIO`"
+msgstr ""
+
+#: ../../hardware/mcu.rst:29
+msgid "ROM: 384 КБ (використовується внутрішньо, не доступний для користувача)"
+msgstr ""
+
+#: ../../hardware/mcu.rst:30
+msgid "4 шини SPI (2 з них доступні для користувача)"
+msgstr ""
+
+#: ../../hardware/mcu.rst:31
+msgid "2 шини I2S"
+msgstr ""
+
+#: ../../hardware/mcu.rst:32
+msgid "2 шини I2C"
+msgstr ""
+
+#: ../../hardware/mcu.rst:33
+msgid "3 шини UART"
+msgstr ""
+
+#: ../../hardware/mcu.rst:34
+msgid "8-канальний :term:`ШІМ`-контролер"
+msgstr ""
+
+#: ../../hardware/mcu.rst:35
+msgid "2 10-канальні 12-бітні :term:`АЦП`"
+msgstr ""
+
+#: ../../hardware/mcu.rst:36
+msgid "Апаратний криптографічний прискорювач (AES, RSA, RNG, HMAC)"
+msgstr ""
+
+#: ../../hardware/mcu.rst:37
+msgid ""
+"USB-контролер (з підтримкою USB-OTG та CDC, що дозволяє програмувати "
+"мікроконтролер через USB без додаткового UART-перетворювача)"
+msgstr ""
+
+#: ../../hardware/mcu.rst:39
+msgid ""
+"Модуль ``ESP32-S3-WROOM-1-N16R8`` містить в собі деякі додаткові "
+"компоненти:"
+msgstr ""
+
+#: ../../hardware/mcu.rst:41
+msgid ""
+"Суфікс ``N16`` означає наявність **16 MB Flash-пам'яті типу NOR** (для "
+"зберігання прошивки та вбудованої файлової системи SPIFFS)."
+msgstr ""
+
+#: ../../hardware/mcu.rst:42
+msgid ""
+"Суфікс ``R8`` означає наявність **8 MB PSRAM** (додаткова оперативна "
+"пам'ять)."
+msgstr ""
+
+#: ../../hardware/mcu.rst:43
+msgid ""
+"**36 пінів** :term:`GPIO` (5 з них використовуються для USB та "
+"внутрішньої пам'яті)"
+msgstr ""
+
+#: ../../hardware/mcu.rst:44
+msgid "Кристал, необхідний для роботи мікроконтролера"
+msgstr ""
+
+#: ../../hardware/mcu.rst:45
+msgid "Антена"
+msgstr ""
+
+#: ../../hardware/mcu.rst:46
+msgid "Конденсатори та інші компоненти"
+msgstr ""
+
+#: ../../hardware/mcu.rst:48
+msgid ""
+"Відмінною властивістю ESP32-S3 є наявність вбудованого мультиплексора "
+"GPIO, який дозволяє використовувати апаратний SPI, I2C, I2S, UART та інші"
+" шини на будь-яких GPIO-пінах."
+msgstr ""
+
+#: ../../hardware/schematics.rst:2
+msgid "Креслення (V2)"
+msgstr ""
+
+#: ../../hardware/schematics.rst:5
+msgid "Електронна схема (v2)"
+msgstr ""
+
+#: ../../hardware/schematics.rst:7
+msgid "Завантажити PDF: :download:`PDF <../_gen/v2_schematic.pdf>`"
+msgstr ""
+
+#: ../../hardware/schematics.rst:8
+#, python-format
+msgid ""
+"`Онлайн-перегляд схеми "
+"<https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fand3rson%2Flilka%2Fblob%2Fmain%2Fhardware%2Fv2%2Fmain.kicad_sch>`_"
+msgstr ""
+
+#: ../../hardware/schematics.rst:11
+msgid "Креслення PCB (v2)"
+msgstr ""
+
+#: ../../hardware/schematics.rst:13
+msgid "Завантажити PDF: :download:`PDF <../_gen/v2_pcb.pdf>`"
+msgstr ""
+
+#: ../../hardware/schematics.rst:14
+#, python-format
+msgid ""
+"`Онлайн-перегляд друкованої плати "
+"<https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fand3rson%2Flilka%2Fblob%2Fmain%2Fhardware%2Fv2%2Fmain.kicad_pcb>`_"
+msgstr ""
+

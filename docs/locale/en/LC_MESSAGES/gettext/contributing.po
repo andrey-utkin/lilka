@@ -1,0 +1,76 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Andrew Dunai
+# This file is distributed under the same license as the Лілка package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Лілка \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 19:20+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../contributing/index.rst:2
+msgid ":octicon:`bug` Допомогти в розробці"
+msgstr ""
+
+#: ../../contributing/reporting.rst:2
+msgid "Повідомити про помилку"
+msgstr ""
+
+#: ../../contributing/reporting.rst:4
+msgid ""
+"Якщо ви знайшли помилку, `створіть новий тікет <https://github.com/lilka-"
+"dev/lilka/issues/new>`_."
+msgstr ""
+
+#: ../../contributing/tasks.rst:2
+msgid "Існуючі задачі та новий функціонал"
+msgstr ""
+
+#: ../../contributing/tasks.rst:4
+msgid ""
+"Якщо ви хочете допомогти вирішити існуючі задачі, можна розпочати з "
+"перегляду `списку відкритих задач <https://github.com/lilka-"
+"dev/lilka/issues>`_."
+msgstr ""
+
+#: ../../contributing/tasks.rst:6
+msgid ""
+"Якщо ви хочете запропонувати новий функціонал, будь ласка, `створіть "
+"новий тікет <https://github.com/lilka-dev/lilka/issues/new>`_."
+msgstr ""
+
+#: ../../contributing/todos.rst:2
+msgid "Перелік невирішених проблем в коді"
+msgstr ""
+
+#: ../../contributing/todos.rst:4
+msgid ""
+"Цей список містить проблеми, які вже відомі, але ще не вирішені. Він "
+"генерується автоматично та вказує на рядки коду, які містять текст "
+"\"TODO\"."
+msgstr ""
+
+#: ../../contributing/todos.rst:6
+msgid ""
+"Такі проблеми включають в себе відкладені завдання, незавершені функції, "
+"недоліки в коді, які потребують уваги, або просто загальні підказки для "
+"розробників."
+msgstr ""
+
+#: ../../contributing/todos.rst:8
+msgid ""
+"Майте на увазі, що деякі проблеми можуть бути непростими, оскільки навіть"
+" сам автор коду не спромігся їх вирішити."
+msgstr ""
+

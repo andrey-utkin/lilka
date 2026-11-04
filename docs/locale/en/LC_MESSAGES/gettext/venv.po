@@ -1,0 +1,1394 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Andrew Dunai
+# This file is distributed under the same license as the Лілка package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Лілка \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 19:20+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../venv/lib/python3.14/site-packages/alabaster-0.7.16.dist-info/LICENSE.rst:1
+#: ../../venv/lib64/python3.14/site-packages/alabaster-0.7.16.dist-info/LICENSE.rst:1
+msgid "Copyright (c) 2020 Jeff Forcier."
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/alabaster-0.7.16.dist-info/LICENSE.rst:3
+#: ../../venv/lib64/python3.14/site-packages/alabaster-0.7.16.dist-info/LICENSE.rst:3
+msgid ""
+"Based on original work copyright (c) 2011 Kenneth Reitz and copyright (c)"
+" 2010 Armin Ronacher."
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/alabaster-0.7.16.dist-info/LICENSE.rst:6
+#: ../../venv/lib64/python3.14/site-packages/alabaster-0.7.16.dist-info/LICENSE.rst:6
+msgid "Some rights reserved."
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/alabaster-0.7.16.dist-info/LICENSE.rst:8
+#: ../../venv/lib64/python3.14/site-packages/alabaster-0.7.16.dist-info/LICENSE.rst:8
+msgid ""
+"Redistribution and use in source and binary forms of the theme, with or "
+"without modification, are permitted provided that the following "
+"conditions are met:"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/alabaster-0.7.16.dist-info/LICENSE.rst:12
+#: ../../venv/lib/python3.14/site-packages/sphinx-7.4.7.dist-info/LICENSE.rst:14
+#: ../../venv/lib/python3.14/site-packages/sphinx-7.4.7.dist-info/LICENSE.rst:48
+#: ../../venv/lib/python3.14/site-packages/sphinxcontrib_jsmath-2.0.0.dist-info/licenses/LICENCE.rst:12
+#: ../../venv/lib64/python3.14/site-packages/alabaster-0.7.16.dist-info/LICENSE.rst:12
+#: ../../venv/lib64/python3.14/site-packages/sphinx-7.4.7.dist-info/LICENSE.rst:14
+#: ../../venv/lib64/python3.14/site-packages/sphinx-7.4.7.dist-info/LICENSE.rst:48
+#: ../../venv/lib64/python3.14/site-packages/sphinxcontrib_jsmath-2.0.0.dist-info/licenses/LICENCE.rst:12
+msgid ""
+"Redistributions of source code must retain the above copyright notice, "
+"this list of conditions and the following disclaimer."
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/alabaster-0.7.16.dist-info/LICENSE.rst:15
+#: ../../venv/lib/python3.14/site-packages/sphinx-7.4.7.dist-info/LICENSE.rst:17
+#: ../../venv/lib/python3.14/site-packages/sphinx-7.4.7.dist-info/LICENSE.rst:50
+#: ../../venv/lib/python3.14/site-packages/sphinxcontrib_jsmath-2.0.0.dist-info/licenses/LICENCE.rst:15
+#: ../../venv/lib64/python3.14/site-packages/alabaster-0.7.16.dist-info/LICENSE.rst:15
+#: ../../venv/lib64/python3.14/site-packages/sphinx-7.4.7.dist-info/LICENSE.rst:17
+#: ../../venv/lib64/python3.14/site-packages/sphinx-7.4.7.dist-info/LICENSE.rst:50
+#: ../../venv/lib64/python3.14/site-packages/sphinxcontrib_jsmath-2.0.0.dist-info/licenses/LICENCE.rst:15
+msgid ""
+"Redistributions in binary form must reproduce the above copyright notice,"
+" this list of conditions and the following disclaimer in the "
+"documentation and/or other materials provided with the distribution."
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/alabaster-0.7.16.dist-info/LICENSE.rst:20
+#: ../../venv/lib64/python3.14/site-packages/alabaster-0.7.16.dist-info/LICENSE.rst:20
+msgid ""
+"The names of the contributors may not be used to endorse or promote "
+"products derived from this software without specific prior written "
+"permission."
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/alabaster-0.7.16.dist-info/LICENSE.rst:24
+#: ../../venv/lib64/python3.14/site-packages/alabaster-0.7.16.dist-info/LICENSE.rst:24
+msgid ""
+"THIS THEME IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS "
+"IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED "
+"TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A "
+"PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER "
+"OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, "
+"EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, "
+"PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR "
+"PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF "
+"LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING "
+"NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS THEME,"
+" EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:2
+#: ../../venv/lib64/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:2
+msgid "Credits"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:4
+#: ../../venv/lib64/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:4
+msgid "``html5lib`` is written and maintained by:"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:6
+#: ../../venv/lib64/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:6
+msgid "James Graham"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:7
+#: ../../venv/lib64/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:7
+msgid "Sam Sneddon"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:8
+#: ../../venv/lib64/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:8
+msgid "Łukasz Langa"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:9
+#: ../../venv/lib64/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:9
+msgid "Will Kahn-Greene"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:13
+#: ../../venv/lib64/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:13
+msgid "Patches and suggestions"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:14
+#: ../../venv/lib64/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:14
+msgid "(In chronological order, by first commit:)"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:16
+#: ../../venv/lib64/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:16
+msgid "Anne van Kesteren"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:17
+#: ../../venv/lib64/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:17
+msgid "Lachlan Hunt"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:18
+#: ../../venv/lib64/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:18
+msgid "lantis63"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:19
+#: ../../venv/lib64/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:19
+msgid "Sam Ruby"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:20
+#: ../../venv/lib64/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:20
+msgid "Thomas Broyer"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:21
+#: ../../venv/lib64/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:21
+msgid "Tim Fletcher"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:22
+#: ../../venv/lib64/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:22
+msgid "Mark Pilgrim"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:23
+#: ../../venv/lib64/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:23
+msgid "Ryan King"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:24
+#: ../../venv/lib64/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:24
+msgid "Philip Taylor"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:25
+#: ../../venv/lib64/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:25
+msgid "Edward Z. Yang"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:26
+#: ../../venv/lib64/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:26
+msgid "fantasai"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:27
+#: ../../venv/lib64/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:27
+msgid "Philip Jägenstedt"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:28
+#: ../../venv/lib64/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:28
+msgid "Ms2ger"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:29
+#: ../../venv/lib64/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:29
+msgid "Mohammad Taha Jahangir"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:30
+#: ../../venv/lib64/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:30
+msgid "Andy Wingo"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:31
+#: ../../venv/lib64/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:31
+msgid "Andreas Madsack"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:32
+#: ../../venv/lib64/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:32
+msgid "Karim Valiev"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:33
+#: ../../venv/lib64/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:33
+msgid "Juan Carlos Garcia Segovia"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:34
+#: ../../venv/lib64/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:34
+msgid "Mike West"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:35
+#: ../../venv/lib64/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:35
+msgid "Marc DM"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:36
+#: ../../venv/lib64/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:36
+msgid "Simon Sapin"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:37
+#: ../../venv/lib64/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:37
+msgid "Michael[tm] Smith"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:38
+#: ../../venv/lib64/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:38
+msgid "Ritwik Gupta"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:39
+#: ../../venv/lib64/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:39
+msgid "Marc Abramowitz"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:40
+#: ../../venv/lib64/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:40
+msgid "Tony Lopes"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:41
+#: ../../venv/lib64/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:41
+msgid "lilbludevil"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:42
+#: ../../venv/lib64/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:42
+msgid "Kevin"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:43
+#: ../../venv/lib64/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:43
+msgid "Drew Hubl"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:44
+#: ../../venv/lib64/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:44
+msgid "Austin Kumbera"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:45
+#: ../../venv/lib64/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:45
+msgid "Jim Baker"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:46
+#: ../../venv/lib64/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:46
+msgid "Jon Dufresne"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:47
+#: ../../venv/lib64/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:47
+msgid "Donald Stufft"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:48
+#: ../../venv/lib64/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:48
+msgid "Alex Gaynor"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:49
+#: ../../venv/lib64/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:49
+msgid "Nik Nyby"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:50
+#: ../../venv/lib64/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:50
+msgid "Jakub Wilk"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:51
+#: ../../venv/lib64/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:51
+msgid "Sigmund Cherem"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:52
+#: ../../venv/lib64/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:52
+msgid "Gabi Davar"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:53
+#: ../../venv/lib64/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:53
+msgid "Florian Mounier"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:54
+#: ../../venv/lib64/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:54
+msgid "neumond"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:55
+#: ../../venv/lib64/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:55
+msgid "Vitalik Verhovodov"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:56
+#: ../../venv/lib64/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:56
+msgid "Kovid Goyal"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:57
+#: ../../venv/lib64/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:57
+msgid "Adam Chainz"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:58
+#: ../../venv/lib64/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:58
+msgid "John Vandenberg"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:59
+#: ../../venv/lib64/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:59
+msgid "Eric Amorde"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:60
+#: ../../venv/lib64/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:60
+msgid "Benedikt Morbach"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:61
+#: ../../venv/lib64/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:61
+msgid "Jonathan Vanasco"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:62
+#: ../../venv/lib64/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:62
+msgid "Tom Most"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:63
+#: ../../venv/lib64/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:63
+msgid "Ville Skyttä"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:64
+#: ../../venv/lib64/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:64
+msgid "Hugo van Kemenade"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:65
+#: ../../venv/lib64/python3.14/site-packages/html5lib-1.1.dist-info/AUTHORS.rst:65
+msgid "Mark Vasilkov"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/imagesize-2.0.1.dist-info/licenses/LICENSE.rst:2
+#: ../../venv/lib64/python3.14/site-packages/imagesize-2.0.1.dist-info/licenses/LICENSE.rst:2
+msgid "The MIT License (MIT)"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/imagesize-2.0.1.dist-info/licenses/LICENSE.rst:4
+#: ../../venv/lib64/python3.14/site-packages/imagesize-2.0.1.dist-info/licenses/LICENSE.rst:4
+msgid "Copyright © 2016 Yoshiki Shibukawa"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/imagesize-2.0.1.dist-info/licenses/LICENSE.rst:6
+#: ../../venv/lib64/python3.14/site-packages/imagesize-2.0.1.dist-info/licenses/LICENSE.rst:6
+msgid ""
+"Permission is hereby granted, free of charge, to any person obtaining a "
+"copy of this software and associated documentation files (the "
+"“Software”), to deal in the Software without restriction, including "
+"without limitation the rights to use, copy, modify, merge, publish, "
+"distribute, sublicense, and/or sell copies of the Software, and to permit"
+" persons to whom the Software is furnished to do so, subject to the "
+"following conditions:"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/imagesize-2.0.1.dist-info/licenses/LICENSE.rst:12
+#: ../../venv/lib64/python3.14/site-packages/imagesize-2.0.1.dist-info/licenses/LICENSE.rst:12
+msgid ""
+"The above copyright notice and this permission notice shall be included "
+"in all copies or substantial portions of the Software."
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/imagesize-2.0.1.dist-info/licenses/LICENSE.rst:15
+#: ../../venv/lib64/python3.14/site-packages/imagesize-2.0.1.dist-info/licenses/LICENSE.rst:15
+msgid ""
+"THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS "
+"OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF "
+"MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN"
+" NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,"
+" DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR "
+"OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE"
+" USE OR OTHER DEALINGS IN THE SOFTWARE."
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/pip/_vendor/README.rst:3
+#: ../../venv/lib64/python3.14/site-packages/pip/_vendor/README.rst:3
+msgid "Vendoring Policy"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/pip/_vendor/README.rst:5
+#: ../../venv/lib64/python3.14/site-packages/pip/_vendor/README.rst:5
+msgid ""
+"Vendored libraries **MUST** not be modified except as required to "
+"successfully vendor them."
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/pip/_vendor/README.rst:7
+#: ../../venv/lib64/python3.14/site-packages/pip/_vendor/README.rst:7
+msgid ""
+"Vendored libraries **MUST** be released copies of libraries available on "
+"PyPI."
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/pip/_vendor/README.rst:9
+#: ../../venv/lib64/python3.14/site-packages/pip/_vendor/README.rst:9
+msgid ""
+"Vendored libraries **MUST** be available under a license that allows them"
+" to be integrated into ``pip``, which is released under the MIT license."
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/pip/_vendor/README.rst:11
+#: ../../venv/lib64/python3.14/site-packages/pip/_vendor/README.rst:11
+msgid "Vendored libraries **MUST** be accompanied with LICENSE files."
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/pip/_vendor/README.rst:12
+#: ../../venv/lib64/python3.14/site-packages/pip/_vendor/README.rst:12
+msgid ""
+"The versions of libraries vendored in pip **MUST** be reflected in "
+"``pip/_vendor/vendor.txt``."
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/pip/_vendor/README.rst:14
+#: ../../venv/lib64/python3.14/site-packages/pip/_vendor/README.rst:14
+msgid ""
+"Vendored libraries **MUST** function without any build steps such as "
+"``2to3`` or compilation of C code, practically this limits to single "
+"source 2.x/3.x and pure Python."
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/pip/_vendor/README.rst:17
+#: ../../venv/lib64/python3.14/site-packages/pip/_vendor/README.rst:17
+msgid ""
+"Any modifications made to libraries **MUST** be noted in "
+"``pip/_vendor/README.rst`` and their corresponding patches **MUST** be "
+"included ``tools/vendoring/patches``."
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/pip/_vendor/README.rst:20
+#: ../../venv/lib64/python3.14/site-packages/pip/_vendor/README.rst:20
+msgid ""
+"Vendored libraries should have corresponding ``vendored()`` entries in "
+"``pip/_vendor/__init__.py``."
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/pip/_vendor/README.rst:24
+#: ../../venv/lib64/python3.14/site-packages/pip/_vendor/README.rst:24
+msgid "Rationale"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/pip/_vendor/README.rst:26
+#: ../../venv/lib64/python3.14/site-packages/pip/_vendor/README.rst:26
+msgid ""
+"Historically pip has not had any dependencies except for ``setuptools`` "
+"itself, choosing instead to implement any functionality it needed to "
+"prevent needing a dependency. However, starting with pip 1.5, we began to"
+" replace code that was implemented inside of pip with reusable libraries "
+"from PyPI. This brought the typical benefits of reusing libraries instead"
+" of reinventing the wheel like higher quality and more battle tested "
+"code, centralization of bug fixes (particularly security sensitive ones),"
+" and better/more features for less work."
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/pip/_vendor/README.rst:34
+#: ../../venv/lib64/python3.14/site-packages/pip/_vendor/README.rst:34
+msgid ""
+"However, there are several issues with having dependencies in the "
+"traditional way (via ``install_requires``) for pip. These issues are:"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/pip/_vendor/README.rst:37
+#: ../../venv/lib64/python3.14/site-packages/pip/_vendor/README.rst:37
+msgid "**Fragility**"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/pip/_vendor/README.rst:38
+#: ../../venv/lib64/python3.14/site-packages/pip/_vendor/README.rst:38
+msgid ""
+"When pip depends on another library to function then if for whatever "
+"reason that library either isn't installed or an incompatible version is "
+"installed then pip ceases to function. This is of course true for all "
+"Python applications, however for every application *except* for pip the "
+"way you fix it is by re-running pip. Obviously, when pip can't run, you "
+"can't use pip to fix pip, so you're left having to manually resolve "
+"dependencies and installing them by hand."
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/pip/_vendor/README.rst:46
+#: ../../venv/lib64/python3.14/site-packages/pip/_vendor/README.rst:46
+msgid "**Making other libraries uninstallable**"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/pip/_vendor/README.rst:47
+#: ../../venv/lib64/python3.14/site-packages/pip/_vendor/README.rst:47
+msgid ""
+"One of pip's current dependencies is the ``requests`` library, for which "
+"pip requires a fairly recent version to run.  If pip depended on "
+"``requests`` in the traditional manner, then we'd either have to maintain"
+" compatibility with every ``requests`` version that has ever existed (and"
+" ever will), OR allow pip to render certain versions of ``requests`` "
+"uninstallable. (The second issue, although technically true for any "
+"Python application, is magnified by pip's ubiquity; pip is installed by "
+"default in Python, in ``pyvenv``, and in ``virtualenv``.)"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/pip/_vendor/README.rst:56
+#: ../../venv/lib64/python3.14/site-packages/pip/_vendor/README.rst:56
+msgid "**Security**"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/pip/_vendor/README.rst:57
+#: ../../venv/lib64/python3.14/site-packages/pip/_vendor/README.rst:57
+msgid ""
+"This might seem puzzling at first glance, since vendoring has a tendency "
+"to complicate updating dependencies for security updates, and that holds "
+"true for pip. However, given the *other* reasons for avoiding "
+"dependencies, the alternative is for pip to reinvent the wheel itself.  "
+"This is what pip did historically. It forced pip to re-implement its own "
+"HTTPS verification routines as a workaround for the Python standard "
+"library's lack of SSL validation, which resulted in similar bugs in the "
+"validation routine in ``requests`` and ``urllib3``, except that they had "
+"to be discovered and fixed independently. Even though we're vendoring, "
+"reusing libraries keeps pip more secure by relying on the great work of "
+"our dependencies, *and* allowing for faster, easier security fixes by "
+"simply pulling in newer versions of dependencies."
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/pip/_vendor/README.rst:70
+#: ../../venv/lib64/python3.14/site-packages/pip/_vendor/README.rst:70
+msgid "**Bootstrapping**"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/pip/_vendor/README.rst:71
+#: ../../venv/lib64/python3.14/site-packages/pip/_vendor/README.rst:71
+msgid ""
+"Currently most popular methods of installing pip rely on pip's self-"
+"contained nature to install pip itself. These tools work by bundling a "
+"copy of pip, adding it to ``sys.path``, and then executing that copy of "
+"pip. This is done instead of implementing a \"mini installer\" (to reduce"
+" duplication); pip already knows how to install a Python package, and is "
+"far more battle-tested than any \"mini installer\" could ever possibly "
+"be."
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/pip/_vendor/README.rst:78
+#: ../../venv/lib64/python3.14/site-packages/pip/_vendor/README.rst:78
+msgid ""
+"Many downstream redistributors have policies against this kind of "
+"bundling, and instead opt to patch the software they distribute to "
+"debundle it and make it rely on the global versions of the software that "
+"they already have packaged (which may have its own patches applied to "
+"it). We (the pip team) would prefer it if pip was *not* debundled in this"
+" manner due to the above reasons and instead we would prefer it if pip "
+"would be left intact as it is now."
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/pip/_vendor/README.rst:85
+#: ../../venv/lib64/python3.14/site-packages/pip/_vendor/README.rst:85
+msgid ""
+"In the longer term, if someone has a *portable* solution to the above "
+"problems, other than the bundling method we currently use, that doesn't "
+"add additional problems that are unreasonable then we would be happy to "
+"consider, and possibly switch to said method. This solution must function"
+" correctly across all of the situation that we expect pip to be used and "
+"not mandate some external mechanism such as OS packages."
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/pip/_vendor/README.rst:94
+#: ../../venv/lib64/python3.14/site-packages/pip/_vendor/README.rst:94
+msgid "Modifications"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/pip/_vendor/README.rst:96
+#: ../../venv/lib64/python3.14/site-packages/pip/_vendor/README.rst:96
+msgid "``setuptools`` is completely stripped to only keep ``pkg_resources``."
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/pip/_vendor/README.rst:97
+#: ../../venv/lib64/python3.14/site-packages/pip/_vendor/README.rst:97
+msgid ""
+"``pkg_resources`` has been modified to import its dependencies from "
+"``pip._vendor``, and to use the vendored copy of ``platformdirs`` rather "
+"than ``appdirs``."
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/pip/_vendor/README.rst:100
+#: ../../venv/lib64/python3.14/site-packages/pip/_vendor/README.rst:100
+msgid ""
+"``packaging`` has been modified to import its dependencies from "
+"``pip._vendor``."
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/pip/_vendor/README.rst:102
+#: ../../venv/lib64/python3.14/site-packages/pip/_vendor/README.rst:102
+msgid ""
+"``CacheControl`` has been modified to import its dependencies from "
+"``pip._vendor``."
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/pip/_vendor/README.rst:104
+#: ../../venv/lib64/python3.14/site-packages/pip/_vendor/README.rst:104
+msgid ""
+"``requests`` has been modified to import its other dependencies from "
+"``pip._vendor`` and to *not* load ``simplejson`` (all platforms) and "
+"``pyopenssl`` (Windows)."
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/pip/_vendor/README.rst:107
+#: ../../venv/lib64/python3.14/site-packages/pip/_vendor/README.rst:107
+msgid ""
+"``platformdirs`` has been modified to import its submodules from "
+"``pip._vendor.platformdirs``."
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/pip/_vendor/README.rst:110
+#: ../../venv/lib64/python3.14/site-packages/pip/_vendor/README.rst:110
+msgid "Automatic Vendoring"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/pip/_vendor/README.rst:112
+#: ../../venv/lib64/python3.14/site-packages/pip/_vendor/README.rst:112
+msgid ""
+"Vendoring is automated via the `vendoring "
+"<https://pypi.org/project/vendoring/>`_ tool from the content of "
+"``pip/_vendor/vendor.txt`` and the different patches in "
+"``tools/vendoring/patches``. Launch it via ``vendoring sync . -v`` "
+"(requires ``vendoring>=0.2.2``). Tool configuration is done via "
+"``pyproject.toml``."
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/pip/_vendor/README.rst:118
+#: ../../venv/lib64/python3.14/site-packages/pip/_vendor/README.rst:118
+msgid ""
+"To update the vendored library versions, we have a session defined in "
+"``nox``. The command to upgrade everything is::"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/pip/_vendor/README.rst:123
+#: ../../venv/lib64/python3.14/site-packages/pip/_vendor/README.rst:123
+msgid ""
+"We do not upgrade ``setuptools``, because we only rely on "
+"``pkg_resources``, and tracking every ``setuptools`` change is "
+"unnecessary for our needs."
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/pip/_vendor/README.rst:128
+#: ../../venv/lib64/python3.14/site-packages/pip/_vendor/README.rst:128
+msgid "Managing Local Patches"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/pip/_vendor/README.rst:130
+#: ../../venv/lib64/python3.14/site-packages/pip/_vendor/README.rst:130
+msgid ""
+"The ``vendoring`` tool automatically applies our local patches, but "
+"updating, the patches sometimes no longer apply cleanly. In that case, "
+"the update will fail. To resolve this, take the following steps:"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/pip/_vendor/README.rst:134
+#: ../../venv/lib64/python3.14/site-packages/pip/_vendor/README.rst:134
+msgid ""
+"Revert any incomplete changes in the revendoring branch, to ensure you "
+"have a clean starting point."
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/pip/_vendor/README.rst:136
+#: ../../venv/lib64/python3.14/site-packages/pip/_vendor/README.rst:136
+msgid ""
+"Run the revendoring of the library with a problem again: ``nox -s "
+"vendoring -- --upgrade <library_name>``."
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/pip/_vendor/README.rst:138
+#: ../../venv/lib64/python3.14/site-packages/pip/_vendor/README.rst:138
+msgid ""
+"This will fail again, but you will have the original source in your "
+"working directory. Review the existing patch against the source, and "
+"modify the patch to reflect the new version of the source. If you ``git "
+"add`` the changes the vendoring made, you can modify the source to "
+"reflect the patch file and then generate a new patch with ``git diff``."
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/pip/_vendor/README.rst:143
+#: ../../venv/lib64/python3.14/site-packages/pip/_vendor/README.rst:143
+msgid ""
+"Now, revert everything *except* the patch file changes. Leave the "
+"modified patch file unstaged but saved in the working tree."
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/pip/_vendor/README.rst:145
+#: ../../venv/lib64/python3.14/site-packages/pip/_vendor/README.rst:145
+msgid ""
+"Re-run the vendoring. This time, it should pick up the changed patch file"
+" and apply it cleanly. The patch file changes will be committed along "
+"with the revendoring, so the new commit should be ready to test and "
+"publish as a PR."
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/pip/_vendor/README.rst:151
+#: ../../venv/lib64/python3.14/site-packages/pip/_vendor/README.rst:151
+msgid "Debundling"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/pip/_vendor/README.rst:153
+#: ../../venv/lib64/python3.14/site-packages/pip/_vendor/README.rst:153
+msgid ""
+"As mentioned in the rationale, we, the pip team, would prefer it if pip "
+"was not debundled (other than optionally "
+"``pip/_vendor/requests/cacert.pem``) and that pip was left intact. "
+"However, if you insist on doing so, we have a semi-supported method (that"
+" we don't test in our CI) and requires a bit of extra work on your end in"
+" order to solve the problems described above."
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/pip/_vendor/README.rst:159
+#: ../../venv/lib64/python3.14/site-packages/pip/_vendor/README.rst:159
+msgid ""
+"Delete everything in ``pip/_vendor/`` **except** for "
+"``pip/_vendor/__init__.py`` and ``pip/_vendor/vendor.txt``."
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/pip/_vendor/README.rst:161
+#: ../../venv/lib64/python3.14/site-packages/pip/_vendor/README.rst:161
+msgid ""
+"Generate wheels for each of pip's dependencies (and any of their "
+"dependencies) using your patched copies of these libraries. These must be"
+" placed somewhere on the filesystem that pip can access (``pip/_vendor`` "
+"is the default assumption)."
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/pip/_vendor/README.rst:165
+#: ../../venv/lib64/python3.14/site-packages/pip/_vendor/README.rst:165
+msgid ""
+"Modify ``pip/_vendor/__init__.py`` so that the ``DEBUNDLED`` variable is "
+"``True``."
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/pip/_vendor/README.rst:167
+#: ../../venv/lib64/python3.14/site-packages/pip/_vendor/README.rst:167
+msgid ""
+"Upon installation, the ``INSTALLER`` file in pip's own ``dist-info`` "
+"directory should be set to something other than ``pip``, so that pip can "
+"detect that it wasn't installed using itself."
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/pip/_vendor/README.rst:170
+#: ../../venv/lib64/python3.14/site-packages/pip/_vendor/README.rst:170
+msgid ""
+"*(optional)* If you've placed the wheels in a location other than "
+"``pip/_vendor/``, then modify ``pip/_vendor/__init__.py`` so that the "
+"``WHEEL_DIR`` variable points to the location you've placed them."
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/pip/_vendor/README.rst:173
+#: ../../venv/lib64/python3.14/site-packages/pip/_vendor/README.rst:173
+msgid ""
+"*(optional)* Update the ``pip_self_version_check`` logic to use the "
+"appropriate logic for determining the latest available version of pip and"
+" prompt the user with the correct upgrade message."
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/pip/_vendor/README.rst:177
+#: ../../venv/lib64/python3.14/site-packages/pip/_vendor/README.rst:177
+msgid ""
+"Note that partial debundling is **NOT** supported. You need to prepare "
+"wheels for all dependencies for successful debundling."
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx-7.4.7.dist-info/LICENSE.rst:2
+#: ../../venv/lib64/python3.14/site-packages/sphinx-7.4.7.dist-info/LICENSE.rst:2
+msgid "License for Sphinx"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx-7.4.7.dist-info/LICENSE.rst:4
+#: ../../venv/lib64/python3.14/site-packages/sphinx-7.4.7.dist-info/LICENSE.rst:4
+msgid ""
+"Unless otherwise indicated, all code in the Sphinx project is licenced "
+"under the two clause BSD licence below."
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx-7.4.7.dist-info/LICENSE.rst:7
+#: ../../venv/lib64/python3.14/site-packages/sphinx-7.4.7.dist-info/LICENSE.rst:7
+msgid ""
+"Copyright (c) 2007-2024 by the Sphinx team (see AUTHORS file). All rights"
+" reserved."
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx-7.4.7.dist-info/LICENSE.rst:10
+#: ../../venv/lib/python3.14/site-packages/sphinx-7.4.7.dist-info/LICENSE.rst:44
+#: ../../venv/lib/python3.14/site-packages/sphinxcontrib_jsmath-2.0.0.dist-info/licenses/LICENCE.rst:8
+#: ../../venv/lib64/python3.14/site-packages/sphinx-7.4.7.dist-info/LICENSE.rst:10
+#: ../../venv/lib64/python3.14/site-packages/sphinx-7.4.7.dist-info/LICENSE.rst:44
+#: ../../venv/lib64/python3.14/site-packages/sphinxcontrib_jsmath-2.0.0.dist-info/licenses/LICENCE.rst:8
+msgid ""
+"Redistribution and use in source and binary forms, with or without "
+"modification, are permitted provided that the following conditions are "
+"met:"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx-7.4.7.dist-info/LICENSE.rst:21
+#: ../../venv/lib64/python3.14/site-packages/sphinx-7.4.7.dist-info/LICENSE.rst:21
+msgid ""
+"THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS "
+"IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED "
+"TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A "
+"PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER"
+" OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,"
+" EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, "
+"PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR "
+"PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF "
+"LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING "
+"NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS "
+"SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx-7.4.7.dist-info/LICENSE.rst:35
+#: ../../venv/lib64/python3.14/site-packages/sphinx-7.4.7.dist-info/LICENSE.rst:35
+msgid "Licenses for incorporated software"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx-7.4.7.dist-info/LICENSE.rst:37
+#: ../../venv/lib64/python3.14/site-packages/sphinx-7.4.7.dist-info/LICENSE.rst:37
+msgid ""
+"The included implementation of "
+"NumpyDocstring._parse_numpydoc_see_also_section was derived from code "
+"under the following license:"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx-7.4.7.dist-info/LICENSE.rst:42
+#: ../../venv/lib64/python3.14/site-packages/sphinx-7.4.7.dist-info/LICENSE.rst:42
+msgid ""
+"Copyright (C) 2008 Stefan van der Walt <stefan@mentat.za.net>, Pauli "
+"Virtanen <pav@iki.fi>"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx-7.4.7.dist-info/LICENSE.rst:55
+#: ../../venv/lib64/python3.14/site-packages/sphinx-7.4.7.dist-info/LICENSE.rst:55
+msgid ""
+"THIS SOFTWARE IS PROVIDED BY THE AUTHOR ``AS IS'' AND ANY EXPRESS OR "
+"IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES"
+" OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. "
+"IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT, "
+"INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT "
+"NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,"
+" DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY "
+"THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT "
+"(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF "
+"THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx/ext/autosummary/templates/autosummary/base.rst:1
+#: ../../venv/lib/python3.14/site-packages/sphinx/ext/autosummary/templates/autosummary/class.rst:1
+#: ../../venv/lib/python3.14/site-packages/sphinx/ext/autosummary/templates/autosummary/module.rst:1
+#: ../../venv/lib64/python3.14/site-packages/sphinx/ext/autosummary/templates/autosummary/base.rst:1
+#: ../../venv/lib64/python3.14/site-packages/sphinx/ext/autosummary/templates/autosummary/class.rst:1
+#: ../../venv/lib64/python3.14/site-packages/sphinx/ext/autosummary/templates/autosummary/module.rst:1
+msgid "{{ fullname | escape | underline}}"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx/ext/autosummary/templates/autosummary/module.rst:49
+#: ../../venv/lib64/python3.14/site-packages/sphinx/ext/autosummary/templates/autosummary/module.rst:49
+#, python-brace-format
+msgid "{%- block modules %} {%- if modules %} .. rubric:: Modules"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx/ext/autosummary/templates/autosummary/module.rst:56
+#: ../../venv/lib64/python3.14/site-packages/sphinx/ext/autosummary/templates/autosummary/module.rst:56
+#, python-brace-format, python-format
+msgid "{% for item in modules %}"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx/ext/autosummary/templates/autosummary/module.rst:57
+#: ../../venv/lib64/python3.14/site-packages/sphinx/ext/autosummary/templates/autosummary/module.rst:57
+msgid "{{ item }}"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx/ext/autosummary/templates/autosummary/module.rst:58
+#: ../../venv/lib64/python3.14/site-packages/sphinx/ext/autosummary/templates/autosummary/module.rst:58
+#, python-brace-format, python-format
+msgid "{%- endfor %} {% endif %} {%- endblock %}"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/attribute.rst:1
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/attribute.rst:1
+#, python-brace-format, python-format
+msgid "{% import 'common.rst' as common %}"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/attribute.rst:5
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/attribute.rst:5
+msgid "{{ common.deprecated(deprecated)|indent(3) }}"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/attribute.rst:7
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/attribute.rst:7
+#, python-brace-format, python-format
+msgid "{% if description -%}"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/attribute.rst:8
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/attribute.rst:8
+msgid "{{ description|indent(3) }}"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/attribute.rst:9
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/module.rst:14
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/attribute.rst:9
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/module.rst:14
+#, python-brace-format
+msgid "{%- endif %}"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/attribute.rst:11
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/attribute.rst:11
+msgid "{{ common.examples(examples)|indent(3) }}"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/attribute.rst:13
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/attribute.rst:13
+msgid "{{ content|indent(3) }}"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/attribute.rst:15
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/attribute.rst:15
+msgid "{{ common.see_also(see_also)|indent(3) }}"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/class.rst:2
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/class.rst:2
+#, python-brace-format
+msgid ""
+"{%- if model.inherits_from -%} {{ \": \" }} {%- for base in "
+"model.inherits_from -%} {{ base }}{{ \", \" if not loop.last }} {%- "
+"endfor -%} {%- endif %}"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/class.rst:8
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/class.rst:8
+#, python-brace-format, python-format
+msgid ""
+"{# reset module for single class -#} {% if not module %}:module:{%- endif"
+" %}"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/class.rst:10
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/class.rst:10
+#, python-brace-format
+msgid "{%- filter indent(width=4) %}"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/class.rst:12
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/class.rst:12
+#, python-brace-format, python-format
+msgid ""
+"{% if model.short_desc -%} {{ model.short_desc | process_link }} {% endif"
+" %} {% if model.desc -%} {{ model.desc | process_link }} {%- endif %} {% "
+"if model.usage %} **Usage:**"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/class.rst:25
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/class.rst:25
+#, python-brace-format, python-format
+msgid "{% endif -%}"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/class.rst:27
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/class.rst:27
+#, python-brace-format, python-format
+msgid ""
+"{# display class field #} {% for field in model.fields -%} {%- if "
+"field.visibility == \"public\" or 'private-members' in options %} {%- "
+"with type=field.type -%} .. lua:attribute:: {{ field.name }}: {% include "
+"\"type.rst\" %}"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/class.rst:33
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/class.rst:33
+msgid "{{ field.desc }}"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/class.rst:35
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/class.rst:35
+#, python-brace-format, python-format
+msgid "{% endwith -%} {%- endif %} {%- endfor %}"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/class.rst:39
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/class.rst:39
+#, python-brace-format, python-format
+msgid ""
+"{# display public methods first #} {%- for method in model.methods -%} "
+"{%- if method.visibility == \"public\" or 'private-members' in options %}"
+" {% include \"method.rst\" %} {%- endif %} {%- endfor %}"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/class.rst:46
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/class.rst:46
+#, python-brace-format
+msgid ""
+"{# then display protected one #} {%- for method in model.methods -%} {%- "
+"if method.visibility == \"protected\" -%} {%- include "
+"\"method.rst\"|indent(4) %} {%- endif %} {%- endfor %} {%- endfilter %}"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/function.rst:2
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/function.rst:2
+#, python-brace-format
+msgid ""
+"{{- \" \" + function.name }}({%- include \"param_list.rst\" %}) {%- "
+"filter indent(width=4) %}"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/function.rst:5
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/function.rst:5
+#, python-brace-format, python-format
+msgid ""
+"{% if function.short_desc -%} {{ function.short_desc | process_link }} {%"
+" endif %} {% if function.desc -%} {{ function.desc | process_link }} {%- "
+"endif %}"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/function.rst:12
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/function.rst:12
+#, python-brace-format, python-format
+msgid ""
+"{% for param in function.params -%} {%- with type=param.type -%} {%- if "
+"param.name == \"...\" -%} :param vararg: {{ param.desc|process_link }} "
+":type vararg: {% include \"type.rst\" %} {% else -%} :param {{ param.name"
+" }}: {{ param.desc|process_link }} :type {{ param.name }}: {% include "
+"\"type.rst\" %} {% endif -%} {% endwith -%} {%- endfor -%}"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/function.rst:24
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/function.rst:24
+#, python-brace-format, python-format
+msgid ""
+"{% for return in function.returns -%} {% with type=return.type %} {%- if "
+"return.desc -%} :return: {{ return.desc }} {%- endif %} :rtype: {% "
+"include \"type.rst\" %} {% endwith %} {%- endfor -%}"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/function.rst:33
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/function.rst:33
+#, python-brace-format
+msgid "{%- if function.usage %} **Usage:**"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/function.rst:40
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/method.rst:56
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/function.rst:40
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/method.rst:56
+#, python-brace-format, python-format
+msgid "{% endif %}"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/function.rst:42
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/function.rst:42
+#, python-brace-format
+msgid "{%- endfilter %}"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/method.rst:1
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/method.rst:1
+#, python-brace-format, python-format
+msgid ""
+"{%- if method.is_static -%} .. lua:staticmethod:: {%- else -%} .. "
+"lua:method:: {%- endif -%} {{ \" \" + method.name }}({% with "
+"function=method %}{% include \"param_list.rst\" %}{% endwith -%}) {%- "
+"filter indent(width=4) %} {% if method.is_virtual -%} :virtual: {% endif "
+"-%} {% if method.is_abstract -%} :abstract: {% endif -%} {% if "
+"method.is_deprecated -%} :deprecated: {% endif -%} {% if "
+"method.visibility == \"protected\" -%} :protected: {%- endif %}"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/method.rst:21
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/method.rst:21
+#, python-brace-format, python-format
+msgid ""
+"{% if method.short_desc -%} {{ method.short_desc | process_link }} {% "
+"endif %} {% if method.desc -%} {{ method.desc | process_link }} {%- endif"
+" %}"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/method.rst:28
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/method.rst:28
+#, python-brace-format, python-format
+msgid ""
+"{% for param in method.params -%} {%- with type=param.type -%} {%- if "
+"param.name == \"...\" -%} :param vararg: {{ param.desc|process_link }} "
+":type vararg: {% include \"type.rst\" %} {% else -%} :param {{ param.name"
+" }}: {{ param.desc|process_link }} :type {{ param.name }}: {% include "
+"\"type.rst\" %} {% endif -%} {% endwith -%} {%- endfor -%}"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/method.rst:40
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/method.rst:40
+#, python-brace-format, python-format
+msgid ""
+"{% for return in method.returns -%} {% with type=return.type %} {%- if "
+"return.desc -%} :return: {{ return.desc }} {%- endif %} :rtype: {% "
+"include \"type.rst\" %} {% endwith %} {%- endfor -%}"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/method.rst:49
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/method.rst:49
+#, python-brace-format
+msgid "{%- if method.usage %} **Usage:**"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/method.rst:58
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/method.rst:58
+#, python-brace-format, python-format
+msgid "{% if 'show-source' in options %} .. container:: toggle"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/method.rst:65
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/method.rst:65
+#, python-brace-format, python-format
+msgid "{% endif %} {%- endfilter %}"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/module.rst:3
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/module.rst:3
+msgid "{{ module.short_desc|process_link if module.short_desc }}"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/module.rst:5
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/module.rst:5
+msgid "{{ module.desc|process_link if module.desc }}"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/module.rst:7
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/module.rst:7
+#, python-brace-format, python-format
+msgid "{% if module.usage -%} **Usage:**"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/module.rst:16
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/module.rst:16
+#, python-brace-format, python-format
+msgid ""
+"{% for function in module.functions %} {% include \"function.rst\" %} {% "
+"endfor %}"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/module.rst:20
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/module.rst:20
+#, python-brace-format, python-format
+msgid "{% for model in module.classes %} {% include \"class.rst\" %} {% endfor %}"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/param_list.rst:1
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/param_list.rst:1
+#, python-brace-format
+msgid ""
+"{%- for param in function.params -%} {%- if param.is_opt -%}{%- endif -%}"
+" {{ param.name }}{{ \"=\" + param.default_value if param.default_value "
+"}}{{ \", \" if not loop.last }} {%- endfor -%}"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/type.rst:1
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/type.rst:1
+#, python-brace-format
+msgid "{%- if type.id == \"userdata\" -%}"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/type.rst:2
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/type.rst:2
+msgid "userdata"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/type.rst:3
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/type.rst:3
+#, python-brace-format
+msgid "{%- elif type.id == \"any\" -%}"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/type.rst:4
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/type.rst:4
+msgid "any"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/type.rst:5
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/type.rst:5
+#, python-brace-format
+msgid "{%- elif type.id == \"thread\" -%}"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/type.rst:6
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/type.rst:6
+msgid "thread"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/type.rst:7
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/type.rst:7
+#, python-brace-format
+msgid "{%- elif type.id == \"boolean\" -%}"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/type.rst:8
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/type.rst:8
+msgid "boolean"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/type.rst:9
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/type.rst:9
+#, python-brace-format
+msgid "{%- elif type.id == \"table\" -%}"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/type.rst:10
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/type.rst:10
+msgid "table"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/type.rst:11
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/type.rst:11
+#, python-brace-format
+msgid "{%- elif type.id == \"function\" -%}"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/type.rst:12
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/type.rst:12
+msgid "function"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/type.rst:13
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/type.rst:13
+#, python-brace-format
+msgid "{%- elif type.id == \"number\" -%}"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/type.rst:14
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/type.rst:14
+msgid "number"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/type.rst:15
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/type.rst:15
+#, python-brace-format
+msgid "{%- elif type.id == \"string\" -%}"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/type.rst:16
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/type.rst:16
+msgid "str"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/type.rst:17
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/type.rst:17
+#, python-brace-format
+msgid "{%- elif type.id == \"nil\" -%}"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/type.rst:18
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/type.rst:18
+msgid "nil"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/type.rst:19
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/type.rst:19
+#, python-brace-format
+msgid "{%- elif type.id == \"custom\" -%}"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/type.rst:20
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/type.rst:20
+msgid "{{ type.name }}"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/type.rst:21
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/type.rst:21
+#, python-brace-format, python-format
+msgid ""
+"{%- elif type.id == \"or\" -%} {% for type in type.types -%} {% include "
+"\"type.rst\" %}{{ \" or \" if not loop.last }} {%- endfor %} {%- elif "
+"type.id == \"dict\" -%}"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/type.rst:26
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/type.rst:26
+#, python-brace-format, python-format
+msgid ""
+"dict[{% with type=type.key_type %}{% include \"type.rst\" %}{% endwith "
+"%}, {% with type=type.value_type %}{% include \"type.rst\" %}{% endwith "
+"%}]"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/type.rst:27
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/type.rst:27
+#, python-brace-format
+msgid "{%- elif type.id == \"array\" -%}"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/type.rst:28
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/type.rst:28
+#, python-brace-format, python-format
+msgid "list[{% with type=type.type %}{% include \"type.rst\" %}{% endwith %}]"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/type.rst:29
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/type.rst:29
+#, python-brace-format
+msgid "{%- elif type.id == \"callable\" -%}"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/type.rst:30
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/type.rst:30
+#, python-brace-format, python-format
+msgid ""
+"fun( {%- for type in type.arg_types -%}{% include \"type.rst\" %}{{ \", "
+"\" if not loop.last }}{%- endfor -%} ) {%- if type.return_types -%} : {%-"
+" endif -%} {%- for type in type.return_types -%}{% include \"type.rst\" "
+"%}{{ \", \" if not loop.last }}{%- endfor -%}"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinx_lua/templates/type.rst:37
+#: ../../venv/lib64/python3.14/site-packages/sphinx_lua/templates/type.rst:37
+#, python-brace-format
+msgid "{%- endif -%}"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinxcontrib_jsmath-2.0.0.dist-info/licenses/LICENCE.rst:2
+#: ../../venv/lib64/python3.14/site-packages/sphinxcontrib_jsmath-2.0.0.dist-info/licenses/LICENCE.rst:2
+msgid "License for sphinxcontrib-jsmath"
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinxcontrib_jsmath-2.0.0.dist-info/licenses/LICENCE.rst:4
+#: ../../venv/lib64/python3.14/site-packages/sphinxcontrib_jsmath-2.0.0.dist-info/licenses/LICENCE.rst:4
+msgid ""
+"Copyright (c) 2007-2019 by the Sphinx team (see https://github.com"
+"/sphinx-doc/sphinx/blob/master/AUTHORS). All rights reserved."
+msgstr ""
+
+#: ../../venv/lib/python3.14/site-packages/sphinxcontrib_jsmath-2.0.0.dist-info/licenses/LICENCE.rst:19
+#: ../../venv/lib64/python3.14/site-packages/sphinxcontrib_jsmath-2.0.0.dist-info/licenses/LICENCE.rst:19
+msgid ""
+"THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS "
+"IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED "
+"TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A "
+"PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER "
+"OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, "
+"EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, "
+"PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR "
+"PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF "
+"LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING "
+"NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS "
+"SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+msgstr ""
+

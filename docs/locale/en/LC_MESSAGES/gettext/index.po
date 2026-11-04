@@ -1,0 +1,145 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Andrew Dunai
+# This file is distributed under the same license as the Лілка package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Лілка \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 19:20+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../index.rst:41
+msgid "Каталог додатків"
+msgstr ""
+
+#: ../../index.rst:41
+msgid "Зміст:"
+msgstr ""
+
+#: ../../index.rst:57
+msgid "GitHub МоноРепо"
+msgstr ""
+
+#: ../../index.rst:57
+msgid "GitHub SDK"
+msgstr ""
+
+#: ../../index.rst:57
+msgid "GitHub KeiraOS"
+msgstr ""
+
+#: ../../index.rst:57
+msgid "Examples"
+msgstr ""
+
+#: ../../index.rst:57
+msgid "Discord"
+msgstr ""
+
+#: ../../index.rst:57
+msgid "Корисні Посилання"
+msgstr ""
+
+#: ../../index.rst:7
+msgid "Вітаємо вас у документації проєкту Lilka!"
+msgstr ""
+
+#: ../../index.rst:10
+msgid "Що таке Лілка?"
+msgstr ""
+
+#: ../../index.rst:12
+msgid ""
+"Лілка - це консоль на базі :term:`мікроконтролера<Мікроконтролер>` "
+"ESP32-S3-WROOM-1-N16R8."
+msgstr ""
+
+#: ../../index.rst:14
+msgid ""
+"Її головна особливість - це те, що її можна легко зібрати з готових "
+"модулів, які продаються в магазинах."
+msgstr ""
+
+#: ../../index.rst:16
+msgid ""
+"Інший важливий фактор - це ціна: сумарна вартість всіх компонентів "
+"базового набору Лілки в Україні - близько 500-600 гривень."
+msgstr ""
+
+#: ../../index.rst:18
+msgid "Лілка"
+msgstr ""
+
+#: ../../index.rst:23
+msgid ""
+"Мета цього пристрою - це насамперед навчання. Зібравши її, в вас в руках "
+"опиниться проста, але повноцінна залізяка з купою цікавих можливостей:"
+msgstr ""
+
+#: ../../index.rst:25
+msgid ""
+":ref:`Емулятор NES <keira-uk:sd-card-feature>`, який дозволить вам грати "
+"в нінтендівські ігри"
+msgstr ""
+
+#: ../../index.rst:26
+msgid ""
+"Можливість :ref:`запускати DOOM <keira-uk:sd-card-feature>` з непоганим "
+"FPS"
+msgstr ""
+
+#: ../../index.rst:27
+msgid "Вбудований WiFi- та Bluetooth-передавач"
+msgstr ""
+
+#: ../../index.rst:28
+msgid ":ref:`Роз'єм розширення <extension>` для під'єднання власних модулів"
+msgstr ""
+
+#: ../../index.rst:29
+msgid ""
+":ref:`Підтримка Lua <keira-uk:lua-intro>` для легкого створення власних "
+"ігор та програм"
+msgstr ""
+
+#: ../../index.rst:30
+msgid "Можливість запуску програм з SD-карти"
+msgstr ""
+
+#: ../../index.rst:34
+msgid "Слід зауважити, що Лілка не позиціонується як ігрова консоль."
+msgstr ""
+
+#: ../../index.rst:36
+msgid ""
+"Вона - це :term:`DIY`-набір, який буде дуже легко зібрати навіть "
+"недосвідченим початківцям, і її мета - дати вам дешевий набір заліза, з "
+"яким можна погратись, а також готову бібліотеку взаємодії з дисплеєм, "
+"SD-картою, кнопками, звуком, батареєю та іншими компонентами."
+msgstr ""
+
+#: ../../index.rst:39
+msgid ""
+"Звісно ж, ви зможете грати на ній в ігри! Але ігри - це не основне її "
+"призначення."
+msgstr ""
+
+#: ../../index.rst:67
+msgid "Indices and tables"
+msgstr ""
+
+#: ../../index.rst:69
+msgid ":ref:`genindex`"
+msgstr ""
+

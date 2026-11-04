@@ -1,0 +1,100 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Andrew Dunai
+# This file is distributed under the same license as the Лілка package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Лілка \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 19:20+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../community.rst:2
+msgid ":octicon:`people` Спільнота"
+msgstr ""
+
+#: ../../community.rst:5
+msgid "``Rustilka``: Rust для Лілки"
+msgstr ""
+
+#: ../../community.rst:7
+msgid "Автор: **imbir**"
+msgstr ""
+
+#: ../../community.rst:9
+msgid ""
+"Rustilka - це мініпроєкт підтримки мови Rust для Лілки, який має таку "
+"саму мету, як і сама консоль - \"полегшити\" розробку."
+msgstr ""
+
+#: ../../community.rst:11
+msgid ""
+"Також цей проєкт чисто технічно незалежний від оригінального SDK: при "
+"наявності можливостей ми могли б мати IDF версію, але, на думку автора "
+"Rustilka, це не має сенсу."
+msgstr ""
+
+#: ../../community.rst:13
+msgid ""
+"`Хочете писати код для Лілки на Rust? Тоді вам сюди! "
+"<https://rust.lilka.dev>`_"
+msgstr ""
+
+#: ../../community.rst:16
+msgid "``MeowUI``: Альтернативний UI-фреймворк для Лілки"
+msgstr ""
+
+#: ../../community.rst:18
+msgid "Автор: **kolodieiev**"
+msgstr ""
+
+#: ../../community.rst:20
+msgid ""
+"MeowUI - набір бібліотек, що спрощують створення графічного інтерфейсу "
+"користувача для електронних пристроїв на базі esp32 та esp32s3."
+msgstr ""
+
+#: ../../community.rst:22
+msgid ""
+"З самого початку даний проєкт створювався, як шаблон, для швидкої "
+"побудови багаторівневого графічного інтерфейсу в стилі “Quadratisch. "
+"Praktisch. Gut”. Мета - управління різноманітними датчиками за допомогою "
+"мікроконтролера ESP32."
+msgstr ""
+
+#: ../../community.rst:25
+msgid ""
+"Після знайомства з проєктом \"Лілка\", автором MeowUI було прийнято "
+"рішення про розширення та доопрацювання функціоналу MeowUI."
+msgstr ""
+
+#: ../../community.rst:27
+msgid ""
+"`Детальніше про проєкт можна дізнатися тут. "
+"<https://github.com/Kolodieiev/MeowUI>`_"
+msgstr ""
+
+#: ../../community.rst:30
+msgid "Спілкування"
+msgstr ""
+
+#: ../../community.rst:32
+msgid ""
+"Весь код проєкту доступний на `GitHub <https://github.com/lilka-"
+"dev/lilka>`_."
+msgstr ""
+
+#: ../../community.rst:33
+msgid "Приєднуйтесь до нашого `Discord-сервера <https://discord.gg/HU68TaKCu6>`_!"
+msgstr ""
+

@@ -1,0 +1,463 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Andrew Dunai
+# This file is distributed under the same license as the Лілка package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Лілка \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 19:20+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../programming/custom_firmware.rst:2
+msgid "Створення власної прошивки"
+msgstr ""
+
+#: ../../programming/custom_firmware.rst:4
+msgid ""
+"Відкрийте Visual Studio Code, перейдіть на вкладку ``PlatformIO`` та "
+"виберіть ``Create New Project``."
+msgstr ""
+
+#: ../../programming/custom_firmware.rst:9
+msgid "У вікні, що відкриється, натисніть на кнопку ``New Project``."
+msgstr ""
+
+#: ../../programming/custom_firmware.rst:11
+msgid "Придумайте назву свого проєкту - наприклад, ``first_project``."
+msgstr ""
+
+#: ../../programming/custom_firmware.rst:13
+msgid "У переліку boards оберіть ``Lilka v2 (Anderson & friends)``."
+msgstr ""
+
+#: ../../programming/custom_firmware.rst:15
+msgid "У переліку frameworks оберіть ``Arduino``."
+msgstr ""
+
+#: ../../programming/custom_firmware.rst:20
+msgid "Після цього натисніть на кнопку ``Finish``."
+msgstr ""
+
+#: ../../programming/custom_firmware.rst:24
+msgid ""
+"Якщо ви не бачите в переліку ``Lilka v2 (Anderson & friends)`` або у вас "
+"виникає помилка при створенні проєкту, вам потрібно оновити пакети "
+"PlatformIO."
+msgstr ""
+
+#: ../../programming/custom_firmware.rst:26
+msgid ""
+"Для цього виконайте команду ``pio pkg update -g -p espressif32`` в "
+"терміналі Visual Studio Code."
+msgstr ""
+
+#: ../../programming/custom_firmware.rst:28
+msgid ""
+"Щоб відкрити термінал, в панелі ``Quick Access`` виберіть "
+"``Miscellaneous`` і тоді натисніть на ``PlatformIO Core CLI``. Консоль "
+"відкриється внизу вікна Visual Studio Code."
+msgstr ""
+
+#: ../../programming/custom_firmware.rst:31
+msgid "Після цього вам слід перезапустити Visual Studio Code."
+msgstr ""
+
+#: ../../programming/custom_firmware.rst:33
+msgid ""
+"Ваш новий проєкт відкриється у новому вікні Visual Studio Code, і ви "
+"побачите файл ``platformio.ini``."
+msgstr ""
+
+#: ../../programming/custom_firmware.rst:38
+msgid ""
+"Це - конфігураційний файл проєкту, в якому вказані всі налаштування "
+"проєкту: платформа, фреймворк, бібліотеки тощо."
+msgstr ""
+
+#: ../../programming/custom_firmware.rst:40
+msgid ""
+"Ми можете редагувати його вручну, а можете використовувати графічний "
+"інтерфейс PlatformIO."
+msgstr ""
+
+#: ../../programming/custom_firmware.rst:42
+msgid ""
+"Давайте додамо до проєкту бібліотеку :ref:`lilka <sdk-uk:lilka-lib>`. Для"
+" цього відкрийте вкладку ``PlatformIO`` та в панелі ``Quick Access`` "
+"виберіть ``Libraries``."
+msgstr ""
+
+#: ../../programming/custom_firmware.rst:44
+msgid "Після цього введіть у поле пошуку ``lilka``:"
+msgstr ""
+
+#: ../../programming/custom_firmware.rst:49
+msgid "Тепер натисніть на кнопку ``Add to Project``."
+msgstr ""
+
+#: ../../programming/custom_firmware.rst:54
+msgid ""
+"Після завершення завантаження бібліотеки ви побачите, що вона з'явилась у"
+" полі ``lib_deps`` файлу ``platformio.ini``."
+msgstr ""
+
+#: ../../programming/custom_firmware.rst:59
+msgid ""
+"Це поле вказує на те, які бібліотеки використовуються у проєкті. "
+"PlatformIO автоматично завантажує та встановлює всі бібліотеки, вказані у"
+" цьому полі, а також їх залежності."
+msgstr ""
+
+#: ../../programming/custom_firmware.rst:61
+msgid ""
+"Встановлення бібліотеки ``lilka`` автоматично встановлює різні бібліотеки"
+" для роботи з Лілкою, наприклад ``Arduino-GFX``, яка використовується для"
+" роботи з дисплеєм Лілки."
+msgstr ""
+
+#: ../../programming/custom_firmware.rst:63
+msgid ""
+"Напишемо простий код нашої прошивки. Відкрийте файл ``src/main.cpp`` та "
+"напишіть наступний код:"
+msgstr ""
+
+#: ../../programming/custom_firmware.rst:96
+msgid ""
+"Це - проста програма, яка при натисканні на кнопку A змінює колір екрану "
+"на червоний та відтворює звук, а при відпусканні - заповнює екран зеленим"
+" кольором та зупиняє звук."
+msgstr ""
+
+#: ../../programming/custom_firmware.rst:101
+msgid "Тепер ми можемо скомпілювати нашу прошивку та завантажити її в Лілку."
+msgstr ""
+
+#: ../../programming/custom_firmware.rst:103
+msgid ""
+"Для цього під'єднайте Лілку до комп'ютера за допомогою USB-кабеля, "
+"відкрийте вкладку ``PlatformIO`` та натисніть на дію ``Upload``."
+msgstr ""
+
+#: ../../programming/custom_firmware.rst:108
+msgid ""
+"Після завершення компіляції та завантаження прошивки ви побачите, як "
+"Лілка виконує вашу програму. Спробуйте натиснути та відпустити кнопку A "
+"та переконайтеся, що все працює!"
+msgstr ""
+
+#: ../../programming/environment.rst:2
+msgid "Налаштування середовища розробки"
+msgstr ""
+
+#: ../../programming/environment.rst:4
+msgid ""
+"Отже, ви зібрали Лілку. Чи, можливо, якийсь інший пристрій на базі "
+"мікроконтролера ESP32. І ви хочете написати для нього програмне "
+"забезпечення. З чого почати? (Саме так: багато що з цього документу може "
+"бути корисним і для інших пристроїв на базі ESP32, але ми будемо говорити"
+" здебільшого саме про Лілку.)"
+msgstr ""
+
+#: ../../programming/environment.rst:7
+msgid ""
+"Для розробки програмного забезпечення для Лілки ми використовуємо "
+"середовище :term:`PlatformIO`, і дуже рекомендуємо вам теж спробувати "
+"його. До речі, **PlatformIO** - це український проект, і ми пишаємося "
+"тим, що він став таким популярним у всьому світі! 🇺🇦"
+msgstr ""
+
+#: ../../programming/environment.rst:9
+msgid ""
+"**PlatformIO** - це набір інструментів для розробки вбудованого "
+"програмного забезпечення, який автоматизує процес збірки, завантаження та"
+" налагодження програмного забезпечення для мікроконтролерів. Якщо ви "
+"колись працювали з Arduino IDE, то ви знаєте, що воно хоч і зручне, але "
+"має свої обмеження. **PlatformIO** - це таке собі \"Arduino для "
+"дорослих\"."
+msgstr ""
+
+#: ../../programming/environment.rst:12
+msgid ""
+"**PlatformIO** автоматично встановлює необхідні залежності, такі як "
+"компілятори, бібліотеки та інші інструменти, що необхідні для написання "
+"програм."
+msgstr ""
+
+#: ../../programming/environment.rst:14
+msgid ""
+"В цьому документі описано процес налаштування середовища розробки для "
+"Лілки з використанням **PlatformIO** та **Visual Studio Code** для **ОС "
+"Windows**."
+msgstr ""
+
+#: ../../programming/environment.rst:16
+msgid ""
+"Якщо ви використовуєте **MacOS**, процес буде схожим, але можуть бути "
+"деякі відмінності в налаштуваннях. А якщо ви використовуєте "
+"**GNU/Linux**, то ви, скоріш за все, вже й так знаєте, що робити, і цей "
+"документ вам не потрібен. ;)"
+msgstr ""
+
+#: ../../programming/environment.rst:18
+msgid ""
+"Встановіть **Visual Studio Code** з офіційного сайту: "
+"https://code.visualstudio.com/"
+msgstr ""
+
+#: ../../programming/environment.rst:23
+msgid "Запустіть **Visual Studio Code** та встановіть плагін **PlatformIO IDE**."
+msgstr ""
+
+#: ../../programming/environment.rst:25
+msgid ""
+"Для цього відкрийте вкладку **Extensions** (``Ctrl`` + ``Shift`` + "
+"``X``), введіть \"**PlatformIO**\" в поле пошуку та встановіть плагін."
+msgstr ""
+
+#: ../../programming/environment.rst:33
+msgid "Тепер нам потрібно встановити **Git**."
+msgstr ""
+
+#: ../../programming/environment.rst:35
+msgid ""
+"**Git** - це система керування версіями, яка дозволяє ділитися кодом з "
+"іншими розробниками та використовувати код з відкритих репозиторіїв."
+msgstr ""
+
+#: ../../programming/environment.rst:37
+msgid ""
+"Весь код для Лілки, а також бібліотеки, які використовуються в проєкті, "
+"знаходяться на `GitHub <https://github.com/lilka-dev/lilka>`_, тому нам "
+"потрібно встановити **Git**, щоб здійснювати роботу з репозиторіями."
+msgstr ""
+
+#: ../../programming/environment.rst:39
+msgid ""
+"Для встановлення **Git** перейдіть на вкладку **Source Control** "
+"(``Ctrl`` + ``Shift`` + ``G``) та натисніть \"**Download Git for "
+"Windows**\"."
+msgstr ""
+
+#: ../../programming/environment.rst:44
+msgid ""
+"В процесі встановлення не змінюйте жодних параметрів, залиште все так, як"
+" є за замовчуванням, окрім кроку \"**Choosing the default editor used by "
+"Git**\"."
+msgstr ""
+
+#: ../../programming/environment.rst:46
+msgid ""
+"На цьому кроці виберіть \"**Use Visual Studio Code as Git's default "
+"editor**\"."
+msgstr ""
+
+#: ../../programming/environment.rst:51
+msgid "Після встановлення **Git** перезапустіть **Visual Studio Code**."
+msgstr ""
+
+#: ../../programming/environment.rst:53
+msgid ""
+"Тепер ви можете компілювати та завантажувати програми для Лілки, а також "
+"працювати з репозиторіями на **GitHub**."
+msgstr ""
+
+#: ../../programming/extension.rst:4
+msgid "Роз'єм розширення"
+msgstr ""
+
+#: ../../programming/extension.rst:8
+msgid "Зміст"
+msgstr ""
+
+#: ../../programming/extension.rst:11
+msgid "Загальна інформація"
+msgstr ""
+
+#: ../../programming/extension.rst:13
+msgid ""
+"Роз'єм розширення (англ. *extension header*) - це роз'єм, який дозволяє "
+"підключати до основної плати додаткові модулі, наприклад датчики, "
+"дисплеї, сервоприводи тощо."
+msgstr ""
+
+#: ../../programming/extension.rst:15
+msgid "Лілка має 12-контактний роз'єм розширення."
+msgstr ""
+
+#: ../../programming/extension.rst:17
+msgid ""
+"Ці піни можна використовувати для будь-якої цілі. Саме тому вони і "
+"називаються GPIO (General Purpose Input/Output) - вхід/вихід загального "
+"призначення."
+msgstr ""
+
+#: ../../programming/extension.rst:22
+msgid "На роз'єм розширення Лілки виведені наступні піни:"
+msgstr ""
+
+#: ../../programming/extension.rst:24
+msgid "``3.3V`` - живлення 3.3 Вольти"
+msgstr ""
+
+#: ../../programming/extension.rst:25
+msgid "``GND`` - земля"
+msgstr ""
+
+#: ../../programming/extension.rst:26
+msgid "``12``, ``13``, ``14``, ``21``, ``47``, ``48`` - GPIO"
+msgstr ""
+
+#: ../../programming/extension.rst:27
+msgid ""
+"``TX``, ``RX`` - додатковий UART. Ці піни можна використати для з'єднання"
+" Лілки з комп'ютером через перетворювач USB-UART та навіть прошивати її "
+"через цей порт. Але ви також можете без проблем використовувати ці піни "
+"для будь-яких інших цілей в додачу до перелічених вище пінів, а для "
+"прошивання використовувати USB-порт Лілки."
+msgstr ""
+
+#: ../../programming/extension.rst:29
+msgid ""
+"Вони не використовуються Лілкою для жодних внутрішніх потреб, тому ви "
+"можете використовувати їх для будь-яких цілей."
+msgstr ""
+
+#: ../../programming/extension.rst:31
+msgid ""
+"Завдяки вбудованому мультиплексору, кожен пін можна використовувати для "
+"шин I2C, SPI, UART, або просто як вхід/вихід."
+msgstr ""
+
+#: ../../programming/extension.rst:33
+msgid ""
+"Крім того, піни ``12``, ``13`` та ``14`` під'єднані до АЦП "
+"(аналого-цифрового перетворювача, ADC):"
+msgstr ""
+
+#: ../../programming/extension.rst:35
+msgid "``12`` - ADC2, канал 1"
+msgstr ""
+
+#: ../../programming/extension.rst:36
+msgid "``13`` - ADC2, канал 2"
+msgstr ""
+
+#: ../../programming/extension.rst:37
+msgid "``14`` - ADC2, канал 3"
+msgstr ""
+
+#: ../../programming/extension.rst:41
+msgid "Приклад використання GPIO"
+msgstr ""
+
+#: ../../programming/extension.rst:43
+msgid ""
+"Найпростіший приклад використання GPIO - це підключити до роз'єму "
+"розширення світлодіод та резистор, щоб світлодіод світився, коли на пін "
+"подаватиметься напруга."
+msgstr ""
+
+#: ../../programming/extension.rst:45
+msgid ""
+"Наприклад, пін ``12`` можна підключити до анода світлодіода (довший "
+"вивід), а катод світлодіода (коротший вивід) - через резистор до землі "
+"(наприклад, 100 Ом)."
+msgstr ""
+
+#: ../../programming/extension.rst:47
+msgid ""
+"Обчислити значення резистора для світлодіода можна за `цим посиланням "
+"<https://www.digikey.com/en/resources/conversion-calculators/conversion-"
+"calculator-led-series-resistor>`_."
+msgstr ""
+
+#: ../../programming/extension.rst:52
+msgid ""
+"Після цього можна використати наступний код для того, щоб світлодіод "
+"блимав:"
+msgstr ""
+
+#: ../../programming/extension.rst:70
+msgid "Використання GPIO для шини I2C"
+msgstr ""
+
+#: ../../programming/extension.rst:72
+msgid "Щоб використати піни розширення для шини I2C, використайте наступний код:"
+msgstr ""
+
+#: ../../programming/extension.rst:98
+msgid "Використання GPIO для шини SPI"
+msgstr ""
+
+#: ../../programming/extension.rst:100
+msgid "Щоб використати піни розширення для шини SPI, використайте наступний код:"
+msgstr ""
+
+#: ../../programming/index.rst:10
+msgid "SDK"
+msgstr ""
+
+#: ../../programming/index.rst:10
+msgid "Lua API"
+msgstr ""
+
+#: ../../programming/index.rst:10
+msgid "Приклади"
+msgstr ""
+
+#: ../../programming/index.rst:4
+msgid ":octicon:`book` Програмування"
+msgstr ""
+
+#: ../../programming/index.rst:6
+msgid "Отже, ви зібрали Лілку!"
+msgstr ""
+
+#: ../../programming/index.rst:8
+msgid ""
+"В цьому розділі ви знайдете інструкції, як налаштувати робоче середовище,"
+" як її запрограмувати, як розширити функціонал, а також як розробляти "
+"власні розширення."
+msgstr ""
+
+#: ../../programming/keira.rst:2
+msgid "Keira OS"
+msgstr ""
+
+#: ../../programming/keira.rst:4
+msgid ""
+"Ми написали для Лілки власну прошивку, яка називається **\"Keira OS\"** "
+"(**Операційна Система \"Кіра\"**) і включає в себе основні функції для "
+"демонстрації можливостей пристрою."
+msgstr ""
+
+#: ../../programming/keira.rst:6
+msgid ""
+"**Keira** - це операційна система, що базується на проєкті FreeRTOS. Вона"
+" підтримує мультизадачність, мережу, запуск Lua-програм та сторонніх "
+"прошивок з SD-карти та багато іншого."
+msgstr ""
+
+#: ../../programming/keira.rst:8
+msgid ""
+"Більше інформації про **Keira OS** - на сторінці :ref:`keira-uk:keira-"
+"firmware-features`."
+msgstr ""
+
+#: ../../programming/keira.rst:10
+msgid ""
+"Якщо вам кортить якнайшвидше спробувати **Keira OS**, переходьте на "
+"сторінку :ref:`keira-uk:keira-flashing`."
+msgstr ""
+
