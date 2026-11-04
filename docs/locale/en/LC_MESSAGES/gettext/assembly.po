@@ -21,44 +21,44 @@ msgstr ""
 
 #: ../../assembly/components.rst:2
 msgid "Перелік деталей"
-msgstr ""
+msgstr "Components list"
 
 #: ../../assembly/components.rst:4
 msgid "Зміст"
-msgstr ""
+msgstr "Contents"
 
 #: ../../assembly/components.rst:34 ../../assembly/components.rst:36
 msgid "Базовий комплект"
-msgstr ""
+msgstr "Base set"
 
 #: ../../assembly/components.rst:40 ../../assembly/components.rst:258
 #: ../../assembly/components.rst:366
 msgid "К-сть"
-msgstr ""
+msgstr "Quantity"
 
 #: ../../assembly/components.rst:41 ../../assembly/components.rst:259
 #: ../../assembly/components.rst:367
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: ../../assembly/components.rst:42 ../../assembly/components.rst:260
 #: ../../assembly/components.rst:368
 msgid "Значення"
-msgstr ""
+msgstr "Value"
 
 #: ../../assembly/components.rst:43 ../../assembly/components.rst:261
 #: ../../assembly/components.rst:369
 msgid "Назва"
-msgstr ""
+msgstr "Name"
 
 #: ../../assembly/components.rst:44 ../../assembly/components.rst:262
 #: ../../assembly/components.rst:370
 msgid "|ua| В Україні"
-msgstr ""
+msgstr "|ua| In Ukraine"
 
 #: ../../assembly/components.rst:6
 msgid "Україна"
-msgstr ""
+msgstr "Ukraine"
 
 #: ../../assembly/components.rst:45 ../../assembly/components.rst:263
 #: ../../assembly/components.rst:371
@@ -81,17 +81,17 @@ msgstr ""
 #: ../../assembly/components.rst:47 ../../assembly/components.rst:265
 #: ../../assembly/components.rst:373
 msgid "Ціна в |ua|"
-msgstr ""
+msgstr "Ціна в |ua|"
 
 #: ../../assembly/components.rst:48 ../../assembly/components.rst:266
 #: ../../assembly/components.rst:374
 msgid "Примітка"
-msgstr ""
+msgstr "Notes"
 
 #: ../../assembly/components.rst:49 ../../assembly/components.rst:267
 #: ../../assembly/components.rst:375
 msgid "Зображення"
-msgstr ""
+msgstr "Image"
 
 #: ../../assembly/components.rst:51 ../../assembly/components.rst:63
 #: ../../assembly/components.rst:87 ../../assembly/components.rst:99
@@ -113,7 +113,7 @@ msgstr ""
 
 #: ../../assembly/components.rst:53
 msgid "Buzzer (2.54-7.62mm між контактами)"
-msgstr ""
+msgstr "Buzzer (2.54-7.62mm pin distance)"
 
 #: ../../assembly/components.rst:54
 msgid "Passive Buzzer"
@@ -159,7 +159,7 @@ msgstr ""
 msgid ""
 "Можна комплектувати `з цього набору <https://arduino.ua/prod2798-nabor-"
 "mnogosloinih-keramicheskih-kondensatorov-180-sht>`__"
-msgstr ""
+msgstr " "
 
 #: ../../assembly/components.rst:75 ../../assembly/components.rst:142
 #: ../../assembly/components.rst:313
@@ -237,6 +237,8 @@ msgid ""
 "Варіант з AliExpress містить пари тато+мама, тому задовольняє ``J2`` та "
 "``U2J1``"
 msgstr ""
+"Variants from AliExpress contain pairs of socket and pin headers, "
+"satisfying both ``J2`` and ``U2J1``"
 
 #: ../../assembly/components.rst:112
 msgid "J3"
@@ -343,7 +345,7 @@ msgstr ""
 
 #: ../../assembly/components.rst:157
 msgid "В комплекті від arduino.ua лише 6 шт"
-msgstr ""
+msgstr " "
 
 #: ../../assembly/components.rst:162
 msgid "SW9, SW10, SW12"
@@ -397,7 +399,7 @@ msgstr ""
 
 #: ../../assembly/components.rst:181
 msgid "Кнопка має бути кутова"
-msgstr ""
+msgstr "The switch should be on the side"
 
 #: ../../assembly/components.rst:186
 msgid "U1"
@@ -409,7 +411,7 @@ msgstr ""
 
 #: ../../assembly/components.rst:188
 msgid "Мікроконтролер"
-msgstr ""
+msgstr "Microcontroller"
 
 #: ../../assembly/components.rst:189
 msgid "`prom.ua <https://prom.ua/ua/p2051994816-esp32-dualcore-240mhz.html>`__"
@@ -487,7 +489,7 @@ msgstr ""
 
 #: ../../assembly/components.rst:224
 msgid "TLV1117LV33DCYR (не плутати з TLV1117-33!)"
-msgstr ""
+msgstr "TLV1117LV33DCYR (do not confuse with TLV1117-33!)"
 
 #: ../../assembly/components.rst:225
 msgid "TLV1117LV33DCYR Voltage Regulator"
@@ -516,11 +518,11 @@ msgstr ""
 #: ../../assembly/components.rst:234 ../../assembly/components.rst:342
 #: ../../assembly/components.rst:413
 msgid "Разом"
-msgstr ""
+msgstr "Total"
 
 #: ../../assembly/components.rst:252 ../../assembly/components.rst:254
 msgid "Компоненти для батареї"
-msgstr ""
+msgstr "Components for battery"
 
 #: ../../assembly/components.rst:270
 msgid "D1"
@@ -575,6 +577,8 @@ msgid ""
 "Бажано брати варіант з micro USB (займає менше місця, а гніздо USB Type-C"
 " вже є на платі Лілки)"
 msgstr ""
+"Micro USB variant is preferable, it takes less space, and USB Type-C "
+"socket is installed directly on the Lilka PCB"
 
 #: ../../assembly/components.rst:294
 msgid "Q1"
@@ -649,7 +653,7 @@ msgstr ""
 
 #: ../../assembly/components.rst:333
 msgid "Будь-який (3.7V 1000 mAh +) LiPo на ваш розсуд"
-msgstr ""
+msgstr "Any (3.7V 1000 mAh +) LiPo of your choice"
 
 #: ../../assembly/components.rst:334
 #, python-format
@@ -668,11 +672,11 @@ msgstr ""
 msgid ""
 "Рекомендуємо брати невелику батарею (6x30x48), щоб вона помістилась в "
 "корпус"
-msgstr ""
+msgstr "We advise to get not too big one (6x30x48), so that it fits into a case"
 
 #: ../../assembly/components.rst:360 ../../assembly/components.rst:362
 msgid "Компоненти для звуку"
-msgstr ""
+msgstr "Components for audio"
 
 #: ../../assembly/components.rst:378
 msgid "J5"
@@ -728,7 +732,7 @@ msgstr ""
 
 #: ../../assembly/components.rst:397
 msgid "Або гніздо (див. наст. пункт), або будь-який інший динамік на ваш розсуд"
-msgstr ""
+msgstr "Either socket (see next) or any speaker of your choice"
 
 #: ../../assembly/components.rst:403
 msgid "Audio Jack (mono)"
@@ -748,49 +752,51 @@ msgstr ""
 
 #: ../../assembly/components.rst:409
 msgid "Лише якщо ви вирішили використовувати навушники замість динаміка"
-msgstr ""
+msgstr "Only if you choose to use headphones instead of a speaker"
 
 #: ../../assembly/components.rst:431
 msgid "Не входять в жодний комплект"
-msgstr ""
+msgstr "Not included in any kit"
 
 #: ../../assembly/components.rst:433
 msgid "MicroSD карта"
-msgstr ""
+msgstr "MicroSD card"
 
 #: ../../assembly/components.rst:434
 msgid "USB Type-C кабель"
-msgstr ""
+msgstr "USB Type-C cable"
 
 #: ../../assembly/configurations.rst:2
 msgid "Комплектації"
-msgstr ""
+msgstr "Kits"
 
 #: ../../assembly/configurations.rst:4
 msgid "Лілка - це модульний пристрій."
-msgstr ""
+msgstr "Lilka is a modular device."
 
 #: ../../assembly/configurations.rst:6
 msgid ""
 "Комплектація залежить від обраного вами варіанту збірки. Перелік "
 "компонентів для кожного варіанту збірки вказаний в наступному розділі."
 msgstr ""
+"The set depends on your chosen assembly variant. The list of components "
+"for each variant of assembly is given in the next chapter."
 
 #: ../../assembly/configurations.rst:14
 msgid "1. **Базова** (мінімальна) комплектація"
-msgstr ""
+msgstr "1. **Basic** (minimal) set."
 
 #: ../../assembly/configurations.rst:16
 msgid "Існує основний варіант збірки, який включає в себе:"
-msgstr ""
+msgstr "Exists the main variant of assembly, which includes:"
 
 #: ../../assembly/configurations.rst:18
 msgid "Друкована плата \"Лілка\""
-msgstr ""
+msgstr "Printed cirtuit board \"Lilka\""
 
 #: ../../assembly/configurations.rst:19
 msgid "Мікроконтролер ESP32-S3-WROOM-1-N16R8"
-msgstr ""
+msgstr "Microcontroller ESP32-S3-WROOM-1-N16R8"
 
 #: ../../assembly/configurations.rst:20
 msgid "Дисплей 1.69\\\" IPS 240x280 ST7789"
